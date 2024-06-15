@@ -1,0 +1,11 @@
+{
+  "name": "pig-game",
+  "version": "1.0.0",
+  "description": "you can roll a dice until you get 'one', then it will be shifted to next player.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
